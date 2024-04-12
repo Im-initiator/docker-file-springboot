@@ -2,8 +2,8 @@ This repository is a simple example for building a Docker image for a Spring Boo
 
 Used:
 
-Docker Desktop 4.28.0
+  - Docker Desktop 4.28.0
 
-JDK 21 
+  - JDK 21 
 
-Apache Maven 3.9.6.
+  - Apache Maven 3.9.6.
